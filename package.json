@@ -1,0 +1,8 @@
+{
+  "name": "msce-exam-centre",
+  "version": "1.0.0",
+  "description": "MSCE Exam Centre",
+  "scripts": {
+    "build": "node build.js"
+  }
+}
